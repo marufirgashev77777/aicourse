@@ -89,3 +89,4 @@ Xulosa: Agar siz o'quvchi yoki ota-ona bo'lsangiz, "Robosport" - bu robototexnik
 Agar sizni aynan qaysi turdagi Robosport qiziqtirsa, ayting, men shu haqda batafsilroq ma'lumot beraman.
 Instant, Expert, and Vision—now unified and upgraded
 <img width="1280" height="832" alt="image" src="https://github.com/user-attachments/assets/76dfa80e-1e10-4a0e-8e95-08dee70bc3fb" />
+![Uploading image.png…]()
